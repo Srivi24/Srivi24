@@ -1,6 +1,6 @@
 # Hi there, I'm Srivikas M! 👋  
 
-🌐 [LinkedIn](https://www.linkedin.com/in/srivikas-mathesvaran) | [GitHub](https://github.com/Srivi24) | 📧 srivikas346@gmail.com  
+👨‍🎓 [Portfolio](https://srivikas-portfolio.web.app/) | 🌐 [LinkedIn](https://www.linkedin.com/in/srivikas-mathesvaran) | 🧑‍💻 [GitHub](https://github.com/Srivi24) | 📧 srivikas346@gmail.com  
 
 ---
 
